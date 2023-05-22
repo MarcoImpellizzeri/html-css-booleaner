@@ -20,12 +20,7 @@ header {
     margin-right: 10px;
 }
 
-h1 {
-    margin-bottom: 0;
-    
-}
-
-h4 {
+h1, h4 {
     margin-bottom: 0;
 }
 
@@ -36,10 +31,14 @@ h4, h6 {
 
 #nome-scrittore {
     color: #20A9E4;
-}
+}S
 
 .descrizione-foto {
     font-size: 10px;
+}
+
+p > span{
+    background-color: #FFFF00 ;
 }
 
 table{
@@ -61,3 +60,22 @@ thead {
     width: 50%;
 }
 
+#immagine1-footer {
+    background-image: url(../imgs/monitor.jpg);
+}
+
+#immagine2-footer {
+    background-image: url(../imgs/graph.jpg);
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+footer > div {
+    color: white;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+}
