@@ -7,7 +7,6 @@ header {
     background-size: 400px;
     background-color: #4EA0FF; 
     height: 100px;
-    
 }
 
 #img-logo {
@@ -16,8 +15,9 @@ header {
     margin-left: 10px;
 }
 
-.section {
+.section, footer {
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 h1 {
@@ -39,5 +39,25 @@ h4, h6 {
 }
 
 .descrizione-foto {
-    font-size: smaller;
+    font-size: 10px;
 }
+
+table{
+    align-items: left;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #4EA0FF;
+    color: white;
+    text-align: left;
+}
+
+.riga-colorata {
+    background-color: #B1E5F2;
+}
+
+.td-3 {
+    width: 50%;
+}
+
