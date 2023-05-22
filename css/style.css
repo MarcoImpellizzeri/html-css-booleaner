@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url(../imgs/pattern.png); 
+    background-size: 400px;
+    background-color: #4EA0FF; 
+    height: 100px;
+}
+
+#img-logo {
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 200px;
+}
