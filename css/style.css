@@ -7,10 +7,37 @@ header {
     background-size: 400px;
     background-color: #4EA0FF; 
     height: 100px;
+    
 }
 
 #img-logo {
     margin-top: 40px;
-    margin-left: 10px;
     width: 200px;
+    margin-left: 10px;
+}
+
+.section {
+    margin-left: 10px;
+}
+
+h1 {
+    margin-bottom: 0;
+    
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+h4, h6 {
+    margin-top: 0;
+    color: #7F7F7F; 
+}
+
+#nome-scrittore {
+    color: #20A9E4;
+}
+
+.descrizione-foto {
+    font-size: smaller;
 }
