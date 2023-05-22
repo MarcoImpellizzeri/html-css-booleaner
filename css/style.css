@@ -12,12 +12,17 @@ header {
 #img-logo {
     margin-top: 40px;
     width: 200px;
-    margin-left: 10px;
+    margin-left: 50px;
 }
 
 .section, footer {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 10px;
 }
 
 h1, h4 {
